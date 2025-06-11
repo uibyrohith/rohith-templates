@@ -1,3 +1,4 @@
+
 # 🌟 Tailwind Templates Collection
 
 A curated collection of modern, responsive website templates built with **Tailwind CSS**. Each template is designed for real-world use cases — from business landing pages to personal portfolios — and optimized for pixel-perfect responsiveness and clean design.
