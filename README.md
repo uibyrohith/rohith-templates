@@ -10,7 +10,7 @@ A curated collection of modern, responsive website templates built with **Tailwi
 | Template Name                 | Preview                             | Live Demo                        |
 |------------------------------|-------------------------------------|----------------------------------|
 | E-commerce Homepage          | ![](ecommerce/preview.png) | [Live](https://tailwind-templates-red.vercel.app/ecommerce/) |
-| FoodExpress                  | ![](medspa-landing/preview.png)     | [Live]([https://tailwind-templates-red.vercel.app/MedSpa/](https://tailwind-templates-red.vercel.app/FoodExpress/)) |
+| FoodExpress                  | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/FoodExpress/)|
 | MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
 | MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
 | MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
