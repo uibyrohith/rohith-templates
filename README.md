@@ -9,8 +9,7 @@ A curated collection of modern, responsive website templates built with **Tailwi
 
 | Template Name                 | Preview                             | Live Demo                        |
 |------------------------------|-------------------------------------|----------------------------------|
-| FoodExpress                  | ![](<img width="1427" alt="Screenshot 2025-06-11 at 12 46 39 PM" src="https://github.com/user-attachments/assets/004d067a-665e-40da-b416-5187e76bdd5c" />
-)     | [Live](https://tailwind-templates-red.vercel.app/FoodExpress/)|
+| FoodExpress                  | ![](<img width="1427" alt="Food" src="https://github.com/user-attachments/assets/8fe2cc1c-3946-4e78-8aff-43aa98f46629" />)     | [Live](https://tailwind-templates-red.vercel.app/FoodExpress/)|
 | KidsPlay Booking Site        | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/KidsPlay/)|
 | MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSPA/) |
 | ecommerce site               | ![](ecommerce/preview.png)          | [Live](https://tailwind-templates-red.vercel.app/ecommerce/) |
