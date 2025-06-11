@@ -9,17 +9,12 @@ A curated collection of modern, responsive website templates built with **Tailwi
 
 | Template Name                 | Preview                             | Live Demo                        |
 |------------------------------|-------------------------------------|----------------------------------|
-| E-commerce Homepage          | ![](ecommerce/preview.png) | [Live](https://tailwind-templates-red.vercel.app/ecommerce/) |
+| E-commerce Homepage          | ![](ecommerce/preview.png)          | [Live](https://tailwind-templates-red.vercel.app/ecommerce/) |
 | FoodExpress                  | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/FoodExpress/)|
-| MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
-| MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
-| MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
-| MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSpa/) |
-| KidsPlay Online Booking Site | ![](kidsplay-booking/preview.png)   | [Live](https://tailwind-templates-red.vercel.app/KidsPlay/) |
-| Online Education Site        | ![](education-site/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/education/) |
-| App Promo Landing Page       | ![](app-promo/preview.png)          | [Live](https://apppromo.vercel.app) |
-| UI/UX Agency Portfolio       | ![](agency-portfolio/preview.png)   | [Live](https://agency.vercel.app) |
-| Personal Portfolio Site      | ![](personal-portfolio/preview.png) | [Live](https://portfolio.vercel.app) |
+| KidsPlay Booking Site        | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/KidsPlay/)|
+| MedSPA Landing Page          | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/MedSPA/) |
+| ecommerce site               | ![](ecommerce/preview.png)          | [Live](https://tailwind-templates-red.vercel.app/ecommerce/) |
+| Online Education             | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/education/) |
 
 ---
 
