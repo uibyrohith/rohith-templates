@@ -15,6 +15,17 @@ A curated collection of modern, responsive website templates built with **Tailwi
 | ecommerce site               | ![](ecommerce/preview.png)          | [Live](https://tailwind-templates-red.vercel.app/ecommerce/) |
 | Online Education             | ![](medspa-landing/preview.png)     | [Live](https://tailwind-templates-red.vercel.app/education/) |
 
+
+## 📁 Templates
+
+| Template Name           | Preview                                  | Live Demo                                      |
+|------------------------|-------------------------------------------|------------------------------------------------|
+| FoodExpress            | ![](previews/foodexpress.png)             | [Live](https://tailwind-templates-red.vercel.app/FoodExpress/) |
+| KidsPlay Booking Site  | ![](previews/kidsplay.png)                | [Live](https://tailwind-templates-red.vercel.app/KidsPlay/)     |
+| MedSPA Landing Page    | ![](previews/medspa.png)                  | [Live](https://tailwind-templates-red.vercel.app/MedSPA/)       |
+| Ecommerce Site         | ![](previews/ecommerce.png)               | [Live](https://tailwind-templates-red.vercel.app/ecommerce/)    |
+| Online Education       | ![](previews/education.png)               | [Live](https://tailwind-templates-red.vercel.app/education/)    |
+
 ---
 
 ## 🛠️ Tech Stack
