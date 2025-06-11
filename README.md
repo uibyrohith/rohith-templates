@@ -40,4 +40,4 @@ All templates are ready for deployment to **[Vercel](https://vercel.com/)**. Eac
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/uttamrapeti/tailwind-templates.git
+   git clone https://github.com/uibyrohith/rohith-templates.git
